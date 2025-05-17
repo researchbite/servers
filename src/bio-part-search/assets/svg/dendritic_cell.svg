@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 600 600" xmlns="http://www.w3.org/2000/svg">
+  <!-- White background -->
+  <rect width="100%" height="100%" fill="white"/>
+  
+  <!-- Cell body with projections (dendrites) -->
+  <path d="M300 150 C370 130, 420 170, 450 120 C480 180, 500 240, 550 250
+           C520 310, 510 360, 530 410 C470 420, 430 450, 400 500
+           C350 470, 300 490, 250 520 C220 470, 170 450, 110 460
+           C130 400, 120 350, 80 300 C120 250, 140 200, 130 140
+           C180 160, 230 130, 300 150" 
+        fill="#bfbfea" stroke="#9494c1" stroke-width="6"/>
+  
+  <!-- Cell nucleus (oval shape in center) -->
+  <ellipse cx="300" cy="320" rx="70" ry="55" fill="#9494c1" stroke="#8484b1" stroke-width="2"/>
+</svg>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg viewBox="0 0 800 800" xmlns="http://www.w3.org/2000/svg" style="background-color: white;">
+  <!-- SVG element background with extra padding beyond viewport -->
+  <rect x="-1000" y="-1000" width="2800" height="2800" fill="white"/>
+  
+  <!-- Cell membrane (irregular shape) -->
+  <path d="M 400,100 C 450,95 480,110 520,120 560,130 600,150 630,190 
+           660,230 670,260 680,300 690,340 700,380 690,420 
+           680,460 660,500 630,540 600,580 560,600 520,630 
+           480,660 450,680 400,690 350,680 320,660 280,630 
+           240,600 210,580 180,540 150,500 130,460 120,420 
+           110,380 120,340 130,300 140,260 150,230 180,190 
+           210,150 240,130 280,120 320,110 350,95 400,100 Z" 
+        fill="#bfbef5" stroke="#8585b1" stroke-width="10"/>
+  
+  <!-- Cell nucleus (central circle) -->
+  <circle cx="400" cy="400" r="120" 
+          fill="#9b9ad8" stroke="#8585b1" stroke-width="4"/>
+          
+  <!-- Larger vacuoles/vesicles -->
+  <circle cx="250" cy="250" r="40" fill="#d4d3fa" stroke="#bfbef5" stroke-width="2"/>
+  <circle cx="550" cy="300" r="35" fill="#d4d3fa" stroke="#bfbef5" stroke-width="2"/>
+  <circle cx="500" cy="550" r="45" fill="#d4d3fa" stroke="#bfbef5" stroke-width="2"/>
+  <circle cx="300" cy="500" r="30" fill="#d4d3fa" stroke="#bfbef5" stroke-width="2"/>
+  <circle cx="650" cy="450" r="25" fill="#d4d3fa" stroke="#bfbef5" stroke-width="2"/>
+  
+  <!-- Smaller vesicles and inclusions -->
+  <circle cx="350" cy="200" r="12" fill="#a2a1d8" opacity="0.7"/>
+  <circle cx="450" cy="250" r="10" fill="#a2a1d8" opacity="0.7"/>
+  <circle cx="600" cy="400" r="15" fill="#a2a1d8" opacity="0.7"/>
+  <circle cx="500" cy="450" r="8" fill="#a2a1d8" opacity="0.7"/>
+  <circle cx="400" cy="550" r="14" fill="#a2a1d8" opacity="0.7"/>
+  <circle cx="350" cy="600" r="9" fill="#a2a1d8" opacity="0.7"/>
+  <circle cx="250" cy="450" r="11" fill="#a2a1d8" opacity="0.7"/>
+  <circle cx="200" cy="350" r="13" fill="#a2a1d8" opacity="0.7"/>
+  
+  <!-- Tiny inclusions/granules -->
+  <circle cx="280" cy="280" r="5" fill="#a2a1d8" opacity="0.5"/>
+  <circle cx="320" cy="350" r="4" fill="#a2a1d8" opacity="0.5"/>
+  <circle cx="380" cy="300" r="6" fill="#a2a1d8" opacity="0.5"/>
+  <circle cx="430" cy="380" r="3" fill="#a2a1d8" opacity="0.5"/>
+  <circle cx="480" cy="320" r="5" fill="#a2a1d8" opacity="0.5"/>
+  <circle cx="520" cy="400" r="4" fill="#a2a1d8" opacity="0.5"/>
+  <circle cx="450" cy="480" r="6" fill="#a2a1d8" opacity="0.5"/>
+  <circle cx="380" cy="520" r="3" fill="#a2a1d8" opacity="0.5"/>
+  <circle cx="320" cy="480" r="5" fill="#a2a1d8" opacity="0.5"/>
+  <circle cx="280" cy="420" r="4" fill="#a2a1d8" opacity="0.5"/>
+  <circle cx="500" cy="250" r="3" fill="#a2a1d8" opacity="0.5"/>
+  <circle cx="550" cy="200" r="5" fill="#a2a1d8" opacity="0.5"/>
+  <circle cx="580" cy="350" r="4" fill="#a2a1d8" opacity="0.5"/>
+  <circle cx="550" cy="500" r="6" fill="#a2a1d8" opacity="0.5"/>
+  <circle cx="450" cy="580" r="3" fill="#a2a1d8" opacity="0.5"/>
+  <circle cx="350" cy="550" r="5" fill="#a2a1d8" opacity="0.5"/>
+  <circle cx="250" cy="520" r="4" fill="#a2a1d8" opacity="0.5"/>
+  <circle cx="200" cy="450" r="3" fill="#a2a1d8" opacity="0.5"/>
+  <circle cx="230" cy="350" r="5" fill="#a2a1d8" opacity="0.5"/>
+  <circle cx="250" cy="200" r="4" fill="#a2a1d8" opacity="0.5"/>
+</svg>

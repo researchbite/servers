@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg viewBox="0 0 800 800" xmlns="http://www.w3.org/2000/svg" style="background-color: white;">
+  <!-- White background with extra padding to ensure no borders -->
+  <rect x="-1000" y="-1000" width="2800" height="2800" fill="white"/>
+  
+  <!-- Cell shape (rounded square) -->
+  <rect x="150" y="150" width="500" height="500" rx="50" ry="50"
+        fill="#f2d9cd" stroke="#b89b8c" stroke-width="15"/>
+  
+  <!-- Cell nucleus (circle in center) -->
+  <circle cx="400" cy="400" r="100"
+          fill="#d7b7a8" stroke="#d7b7a8" stroke-width="3"/>
+</svg>

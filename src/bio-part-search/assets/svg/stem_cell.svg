@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
+  <!-- White background -->
+  <rect width="100%" height="100%" fill="white"/>
+  
+  <!-- Cell body - slightly rounded square shape -->
+  <path d="M125 140 C100 175, 90 225, 90 250 C90 275, 100 325, 125 360
+           C160 385, 210 410, 250 410 C290 410, 340 385, 375 360
+           C400 325, 410 275, 410 250 C410 225, 400 175, 375 140
+           C340 115, 290 90, 250 90 C210 90, 160 115, 125 140"
+        fill="#e0d0e8" stroke="#b09cb8" stroke-width="5"/>
+  
+  <!-- Cell nucleus - circular center -->
+  <circle cx="250" cy="250" r="60" fill="#b09cb8" stroke="#a08ca8" stroke-width="3"/>
+</svg>

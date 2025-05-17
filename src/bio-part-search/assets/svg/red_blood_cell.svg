@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 500 400" xmlns="http://www.w3.org/2000/svg">
+  <!-- White background -->
+  <rect width="100%" height="100%" fill="white"/>
+  
+  <!-- Red blood cell (erythrocyte) - main cell body -->
+  <ellipse cx="250" cy="200" rx="180" ry="140" fill="#cc4a4a" stroke="#8a2828" stroke-width="5"/>
+  
+  <!-- Central concavity (biconcave disc shape) -->
+  <path d="M175 170 C210 220, 290 220, 325 170" 
+        fill="#8a2828" stroke="none" fill-opacity="0.9"/>
+  
+  <!-- Light reflections (highlights) -->
+  <path d="M150 120 C170 130, 200 120, 220 110" 
+        fill="#e88a8a" stroke="none" fill-opacity="0.7"/>
+  <path d="M290 290 C310 280, 330 280, 350 290" 
+        fill="#e88a8a" stroke="none" fill-opacity="0.7"/>
+</svg>
