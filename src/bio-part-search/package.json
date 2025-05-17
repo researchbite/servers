@@ -1,0 +1,26 @@
+{
+  "name": "@modelcontextprotocol/server-bio-part-search",
+  "version": "0.1.0",
+  "description": "MCP server for bio-part-search: list and retrieve bio part SVGs",
+  "license": "MIT",
+  "type": "module",
+  "bin": {
+    "mcp-server-bio-part-search": "dist/index.js"
+  },
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc && shx chmod +x dist/*.js",
+    "prepare": "npm run build",
+    "watch": "tsc --watch"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "*"
+  },
+  "devDependencies": {
+    "@types/node": "^22",
+    "shx": "^0.3.4",
+    "typescript": "^5.3.3"
+  }
+} 
